@@ -1,5 +1,5 @@
-# CS3280Assignment04
-	Simple Calculator 
+# CS3280Assignment07
+	Clean Calculator 
 
 # Purpose
 
